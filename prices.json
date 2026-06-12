@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-11T22:23:58Z",
+  "updated": "2026-06-12T00:03:11Z",
   "prices": {
     "BTCUSDT": {
-      "price": 63510.9805,
-      "change": 2061.6914,
-      "change_pct": 3.36
+      "price": 63493.1797,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "ETHUSDT": {
-      "price": 1676.42,
-      "change": 56.2823,
-      "change_pct": 3.47
+      "price": 1669.23,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "ORBS": {
       "price": 0.006,
-      "change": -0.0001,
-      "change_pct": -1.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "GOLD": {
-      "price": 4228.1001,
-      "change": 119.8999,
-      "change_pct": 2.92
+      "price": 4237.8999,
+      "change": 129.6997,
+      "change_pct": 3.16
     },
     "XAGUSD": {
-      "price": 67.41,
-      "change": 2.811,
-      "change_pct": 4.35
+      "price": 67.535,
+      "change": 2.936,
+      "change_pct": 4.54
     },
     "IAG": {
       "price": 16.14,
@@ -37,14 +37,14 @@
       "change_pct": 8.89
     },
     "UKOIL": {
-      "price": 88.32,
-      "change": -4.78,
-      "change_pct": -5.13
+      "price": 88.79,
+      "change": -4.31,
+      "change_pct": -4.63
     },
     "WLDUSDT": {
-      "price": 0.4997,
-      "change": 0.0496,
-      "change_pct": 11.02
+      "price": 0.4954,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "SAP": {
       "price": 163.64,
