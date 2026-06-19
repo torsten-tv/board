@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-19T20:47:14Z",
+  "updated": "2026-06-19T22:05:39Z",
   "prices": {
     "BTCUSDT": {
-      "price": 63145.9883,
+      "price": 63015.1484,
       "change": 0.0,
       "change_pct": 0.0
     },
     "ETHUSDT": {
-      "price": 1704.33,
+      "price": 1699.77,
       "change": 0.0,
       "change_pct": 0.0
     },
     "ORBS": {
-      "price": 0.006,
-      "change": 0.0001,
-      "change_pct": 1.7
+      "price": 0.0059,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "GOLD": {
       "price": 4172.8999,
@@ -42,9 +42,9 @@
       "change_pct": 0.93
     },
     "WLDUSDT": {
-      "price": 0.6204,
-      "change": -0.0222,
-      "change_pct": -3.45
+      "price": 0.6219,
+      "change": -0.0207,
+      "change_pct": -3.22
     },
     "SAP": {
       "price": 155.22,
