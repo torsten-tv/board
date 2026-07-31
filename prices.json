@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-31T16:24:29Z",
+  "updated": "2026-07-31T18:04:17Z",
   "prices": {
     "BTCUSDT": {
-      "price": 62862.1992,
-      "change": -1863.1094,
-      "change_pct": -2.88
+      "price": 63194.1914,
+      "change": -1531.1172,
+      "change_pct": -2.37
     },
     "ETHUSDT": {
-      "price": 1865.0,
-      "change": -52.3729,
-      "change_pct": -2.73
+      "price": 1874.05,
+      "change": -43.3229,
+      "change_pct": -2.26
     },
     "ORBS": {
       "price": 0.0054,
@@ -17,64 +17,64 @@
       "change_pct": -0.0
     },
     "GOLD": {
-      "price": 4102.5,
-      "change": 2.3999,
-      "change_pct": 0.06
+      "price": 4109.2998,
+      "change": 9.1997,
+      "change_pct": 0.22
     },
     "XAGUSD": {
-      "price": 57.63,
-      "change": -1.185,
-      "change_pct": -2.01
+      "price": 58.08,
+      "change": -0.735,
+      "change_pct": -1.25
     },
     "IAG": {
-      "price": 14.155,
-      "change": -0.405,
-      "change_pct": -2.78
+      "price": 14.255,
+      "change": -0.305,
+      "change_pct": -2.09
     },
     "IMG": {
-      "price": 19.85,
-      "change": -0.52,
-      "change_pct": -2.55
+      "price": 19.99,
+      "change": -0.38,
+      "change_pct": -1.87
     },
     "UKOIL": {
-      "price": 89.9,
-      "change": 0.87,
-      "change_pct": 0.98
+      "price": 90.01,
+      "change": 0.98,
+      "change_pct": 1.1
     },
     "WLDUSDT": {
-      "price": 0.3047,
-      "change": -0.002,
-      "change_pct": -0.65
+      "price": 0.3066,
+      "change": -0.0001,
+      "change_pct": -0.03
     },
     "SAP": {
-      "price": 182.525,
-      "change": 1.645,
-      "change_pct": 0.91
+      "price": 182.92,
+      "change": 2.04,
+      "change_pct": 1.13
     },
     "NEM": {
-      "price": 93.43,
-      "change": -2.33,
-      "change_pct": -2.43
+      "price": 93.72,
+      "change": -2.04,
+      "change_pct": -2.13
     },
     "ABX": {
-      "price": 51.66,
-      "change": -1.09,
-      "change_pct": -2.07
+      "price": 51.58,
+      "change": -1.17,
+      "change_pct": -2.22
     },
     "GDX": {
-      "price": 74.22,
-      "change": -2.56,
-      "change_pct": -3.33
+      "price": 74.33,
+      "change": -2.45,
+      "change_pct": -3.19
     },
     "CCJ": {
-      "price": 86.905,
-      "change": -1.325,
-      "change_pct": -1.5
+      "price": 87.1301,
+      "change": -1.0999,
+      "change_pct": -1.25
     },
     "UEC": {
-      "price": 9.49,
-      "change": -0.25,
-      "change_pct": -2.57
+      "price": 9.565,
+      "change": -0.175,
+      "change_pct": -1.8
     }
   }
 }
