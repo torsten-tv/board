@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-18T21:38:26Z",
+  "updated": "2026-08-18T21:58:10Z",
   "prices": {
     "BTCUSDT": {
-      "price": 64562.5586,
-      "change": 56.3047,
-      "change_pct": 0.09
+      "price": 64534.5508,
+      "change": 28.2969,
+      "change_pct": 0.04
     },
     "ETHUSDT": {
-      "price": 1911.87,
-      "change": -0.3322,
-      "change_pct": -0.02
+      "price": 1910.6,
+      "change": -1.6022,
+      "change_pct": -0.08
     },
     "ORBS": {
       "price": 0.0051,
