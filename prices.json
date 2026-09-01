@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-01T00:05:47Z",
+  "updated": "2026-09-01T12:24:42Z",
   "prices": {
     "BTCUSDT": {
-      "price": 78664.1875,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 77930.2812,
+      "change": -618.3516,
+      "change_pct": -0.79
     },
     "ETHUSDT": {
-      "price": 2468.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 2453.1699,
+      "change": -13.6504,
+      "change_pct": -0.55
     },
     "ORBS": {
-      "price": 0.0061,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 0.006,
+      "change": -0.0,
+      "change_pct": -0.0
     },
     "GOLD": {
-      "price": 4499.5,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 4419.0,
+      "change": -12.1001,
+      "change_pct": -0.27
     },
     "XAGUSD": {
-      "price": 67.255,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 65.365,
+      "change": -0.856,
+      "change_pct": -1.29
     },
     "IAG": {
       "price": 20.45,
-      "change": -0.14,
-      "change_pct": -0.68
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "IMG": {
       "price": 28.35,
-      "change": -0.26,
-      "change_pct": -0.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "UKOIL": {
-      "price": 88.58,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 91.89,
+      "change": 1.4,
+      "change_pct": 1.55
     },
     "WLDUSDT": {
-      "price": 0.3656,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 0.3708,
+      "change": 0.006,
+      "change_pct": 1.64
     },
     "SAP": {
       "price": 220.89,
-      "change": -0.65,
-      "change_pct": -0.29
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "NEM": {
       "price": 126.06,
-      "change": -1.92,
-      "change_pct": -1.5
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "ABX": {
       "price": 62.16,
@@ -68,13 +68,13 @@
     },
     "CCJ": {
       "price": 98.76,
-      "change": -1.25,
-      "change_pct": -1.25
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "UEC": {
       "price": 12.24,
-      "change": -0.16,
-      "change_pct": -1.29
+      "change": 0.0,
+      "change_pct": 0.0
     }
   }
 }
